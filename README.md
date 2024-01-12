@@ -19,7 +19,7 @@ This project showcases a responsive web page for Tribute Page. Whether you're on
 
 1. **Clone the Repository:**
    ```bash
-   git clone git clone https://github.com/bhavesh-kumar98/tribute-page
+   git clone https://github.com/bhavesh-kumar98/tribute-page
 
 2. **Open in Browser:**<br/>
    Click the [URL](https://bhavesh-kumar98.github.io/tribute-page) in your preferred browser to explore the web page.
